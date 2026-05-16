@@ -32,6 +32,6 @@ Credits:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-2605 update test
+2605 update
 
-20260516update  for feature test
+20260516-b faature
